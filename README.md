@@ -1,9 +1,9 @@
 ````markdown
-# Timber Inventory Control System
+ Timber Inventory Control System
 
 A modern web-based Inventory Control System for **Muhammad Umar Timber Store**, converted from a Java console-based DSA project into a responsive visual application.
 
-## Features
+ Features
 
 The system provides the same core operations as the original Java application:
 
@@ -18,7 +18,7 @@ The system provides the same core operations as the original Java application:
 9. **Backup & Restore** — Export and restore inventory data.
 10. **Exit Program** — End the current session.
 
-## Data Structure
+ Data Structure
 
 The original project uses a **Singly Linked List** to manage timber records.
 
@@ -34,7 +34,7 @@ Each record contains:
 - Price
 - Cut Date
 
-## Tech Stack
+ Tech Stack
 
 - **React 19**
 - **Tailwind CSS v4**
@@ -42,22 +42,22 @@ Each record contains:
 - **JavaScript (ES6+)**
 - **Lucide React**
 
-## Installation
+ Installation
 
-### 1. Clone the repository
+ 1. Clone the repository
 
 ```bash
 git clone https://github.com/sohailahmadmarwat/Timber-Inventory-App.git
 cd Timber-Inventory-App
 ````
 
-### 2. Install dependencies
+# 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Start the development server
+# 3. Start the development server
 
 ```bash
 npm run dev
@@ -69,7 +69,7 @@ Open the application at:
 http://localhost:5173
 ```
 
-## Build
+ Build
 
 Create a production build:
 
@@ -83,7 +83,7 @@ Preview the production build:
 npm run preview
 ```
 
-## Project Structure
+ Project Structure
 
 ```text
 Timber-Inventory-App/
@@ -99,11 +99,4 @@ Timber-Inventory-App/
 ├── package.json
 ├── vite.config.js
 └── README.md
-```
-
-## License
-
-This project is open source and available under the MIT License.
-
-```
 ```
