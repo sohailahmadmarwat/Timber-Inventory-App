@@ -102,5 +102,7 @@ Timber-Inventory-App/
 ```
 
 👤 Author
+
 Sohail Ahmad
+
 GitHub: (https://github.com/sohailahmadmarwat)
